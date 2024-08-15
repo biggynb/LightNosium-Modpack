@@ -1,0 +1,164 @@
+{
+  "minecraft": {
+    "version": "1.20.6",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "LightNosium Modpack",
+  "version": "",
+  "author": "",
+  "files": [
+    {
+      "projectID": 263420,
+      "fileID": 5394788,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 5485662,
+      "required": true
+    },
+    {
+      "projectID": 349240,
+      "fileID": 5467768,
+      "required": true
+    },
+    {
+      "projectID": 397510,
+      "fileID": 5618677,
+      "required": true
+    },
+    {
+      "projectID": 891429,
+      "fileID": 5480291,
+      "required": true
+    },
+    {
+      "projectID": 242064,
+      "fileID": 5450180,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 5586594,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 5577501,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 5394857,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 5605533,
+      "required": true
+    },
+    {
+      "projectID": 303119,
+      "fileID": 5427775,
+      "required": true
+    },
+    {
+      "projectID": 531235,
+      "fileID": 5574753,
+      "required": true
+    },
+    {
+      "projectID": 634062,
+      "fileID": 5440851,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 5553774,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 5604102,
+      "required": true
+    },
+    {
+      "projectID": 308892,
+      "fileID": 5523424,
+      "required": true
+    },
+    {
+      "projectID": 342584,
+      "fileID": 5610362,
+      "required": true
+    },
+    {
+      "projectID": 308240,
+      "fileID": 5322871,
+      "required": true
+    },
+    {
+      "projectID": 576459,
+      "fileID": 5592239,
+      "required": true
+    },
+    {
+      "projectID": 349239,
+      "fileID": 5301955,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 5485656,
+      "required": true
+    },
+    {
+      "projectID": 525510,
+      "fileID": 5591905,
+      "required": true
+    },
+    {
+      "projectID": 1037459,
+      "fileID": 5431341,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 5441532,
+      "required": true
+    },
+    {
+      "projectID": 830604,
+      "fileID": 5435689,
+      "required": true
+    },
+    {
+      "projectID": 297344,
+      "fileID": 5450185,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 5466526,
+      "required": true
+    },
+    {
+      "projectID": 244260,
+      "fileID": 5450183,
+      "required": true
+    },
+    {
+      "projectID": 345854,
+      "fileID": 5571627,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

@@ -1,0 +1,17 @@
+{
+  "Generic": {
+    "ignoredKeys": {
+      "keys": ""
+    },
+    "openGuiConfigs": {
+      "keys": "A,C"
+    },
+    "realmsCommonConfig": true
+  },
+  "Debug": {
+    "inputCancellationDebugging": false,
+    "keybindDebugging": false,
+    "keybindDebuggingIngame": false,
+    "mouseScrollDebug": false
+  }
+}
